@@ -1,0 +1,112 @@
+{
+    "bnaCitizens": [
+        {
+            "name": "Azhar",
+            "languages": [
+                "Alas",
+                "Jame"
+            ],
+            "proficiency": {
+                "prog_language": "Java",
+                "framework": "Spring"
+            },
+            "fav_coffee_shop": "Kelsy",
+            "id": 1
+        },
+        {
+            "id": 2,
+            "name": "Zulfan",
+            "languages": [
+                "Gayo",
+                "Indonesia",
+                "Russia"
+            ],
+            "proficiency": {
+                "prog_language": "Javascript",
+                "framework": "ReactJS"
+            },
+            "fav_coffee_shop": "Cut Zein"
+        },
+        {
+            "id": 3,
+            "name": "Nabil",
+            "languages": [
+                "Gayo",
+                "Indonesia",
+                "Japan"
+            ],
+            "proficiency": {
+                "prog_language": "Javascript",
+                "framework": "Node.js"
+            },
+            "fav_coffee_shop": "Solong Mini"
+        },
+        {
+            "id": 4,
+            "name": "Sultan",
+            "languages": [
+                "Kluet",
+                "Julu",
+                "Indonesia",
+                "China"
+            ],
+            "proficiency": {
+                "prog_language": "C#",
+                "framework": ".Net"
+            },
+            "fav_coffee_shop": "Kutaraja"
+        },
+        {
+            "id": 5,
+            "name": "Nabil",
+            "languages": [
+                "Aceh",
+                "Indonesia",
+                "Korea"
+            ],
+            "proficiency": {
+                "prog_language": "Python",
+                "framework": "Flask"
+            },
+            "fav_coffee_shop": "Kaffa Kopi"
+        }
+    ],
+    "bnaLandmarks": [
+        {
+            "id": 1,
+            "name": "Masjid Raya Baiturrahman",
+            "ticket_price": 0,
+            "description": "Masjid Raya yang asli dibangun pada tahun 1612 di masa pemerintahan Sultan Iskandar Muda. Ada juga yang mengatakan bahwa Masjid Raya Baiturrahman yang asli dibangun lebih awal pada tahun 1292 oleh Sultan Alaidin Mahmudsyah. Masjid Kerajaan yang asli menampilkan atap jerami berlapis-lapis yang merupakan fitur khas arsitektur Aceh."
+        },
+        {
+            "id": 2,
+            "name": "Museum Tsunami",
+            "ticket_price": 10000,
+            "description": "Museum Tsunami Aceh (bahasa Inggris: Aceh Tsunami Museum) adalah sebuah museum di Banda Aceh yang dirancang sebagai monumen simbolis untuk bencana gempa bumi dan tsunami Samudra Hindia 2004 sekaligus pusat pendidikan bencana dan tempat perlindungan darurat andai tsunami terjadi lagi."
+        },
+        {
+            "id": 3,
+            "name": "Monumen PLTD Apung",
+            "ticket_price": 0,
+            "description": "Monumen PLTD Apung sejatinya merupakan sebuah kapal pembangkit listrik tenaga diesel yang mampu memasok listrik hingga 10,5 megawatt. Saat bersandar di dermaga daerah Ulee Lheue, naasnya kapal ini terseret gelombang tsunami yang tingginya mencapai 9 meter. Kini kapal tersebut disulap menjadi situs wisata berupa museum untuk mengenang peristiwa maha dahsyat sekaligus sebagai media edukasi."
+        },
+        {
+            "name": "Mie Aceh Bardi",
+            "ticket_price": 0,
+            "description": "Warung ini enjual mie Aceh legendaris",
+            "id": 6
+        },
+        {
+            "name": "Mie Aceh Bardi",
+            "ticket_price": 0,
+            "description": "Warung ini enjual mie Aceh legendaris",
+            "id": 7
+        },
+        {
+            "name": "Mie Aceh Bardi",
+            "ticket_price": 0,
+            "description": "Warung ini menjual mie Aceh legendaris",
+            "id": 8
+        }
+    ]
+}
